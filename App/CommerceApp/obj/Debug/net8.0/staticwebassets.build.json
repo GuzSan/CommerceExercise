@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lIhkXc5rYcazC1SuvuIFXlAVkpC4wMZU3gxh4GX42Xw=",
+  "Source": "CommerceApp",
+  "BasePath": "_content/CommerceApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
